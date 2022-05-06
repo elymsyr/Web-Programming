@@ -104,3 +104,17 @@ h2 {
 div h2 {
   color: green;
 }
+
+.index-intro p {
+  color: gray;
+
+}
+
+.index-h2 {
+  color: red;
+}
+
+#index-h2 {
+  color: green;
+
+}
